@@ -1,12 +1,18 @@
 # 00 - C Hello World
 
 ## 📌 Descripción
-Primer programa en lenguaje C: Hello World.
+Programa básico en lenguaje C que imprime "Hello, World!" en pantalla.
 
-## 🎯 Objetivo
-Familiarizarse con el entorno de desarrollo y compilación en C.
+---
 
-## ⚙️ Compilación y ejecución
+## ⚙️ Compilador utilizado
+
+- Compilador: GCC (GNU Compiler Collection)
+- Entorno: MSYS2 MinGW64
+
+---
+
+## 🔢 Versión del compilador
 
 ```bash
 gcc hello.c -o hello
