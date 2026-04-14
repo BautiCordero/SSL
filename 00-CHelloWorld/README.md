@@ -14,6 +14,12 @@ Programa básico en lenguaje C que imprime "Hello, World!" en pantalla.
 
 ## 🔢 Versión del compilador
 
-```bash
-gcc hello.c -o hello
-./hello
+GCC 15.2.0
+
+---
+
+## 🔢 Versión del lenguaje C
+
+C23 (compilado con -std=c23)
+
+---
