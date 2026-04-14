@@ -1,0 +1,6 @@
+# Ejecutables
+*.exe
+hello
+# Archivos Temporales
+*.o
+*.log
