@@ -1,6 +1,6 @@
 # Ejecutables
 *.exe
-hello
+archivo
 # Archivos Temporales
 *.o
 *.log

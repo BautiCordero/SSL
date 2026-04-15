@@ -10,4 +10,4 @@ UTN
 Trabajo práctico inicial en C que se basa en un código que genera la frase "Hello, wolrd"
 
 ```markdown
-- [00-CHelloWorld](./00-CHelloWorld)
+- [00-PrimerProgramaC](./00-PrimerProgramaC)
