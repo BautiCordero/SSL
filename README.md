@@ -6,7 +6,7 @@ Roxana Leituz
 ## 🏫 Universidad
 UTN
 
-## 📌 Descripción
+## 📌 Primer trabajo en C
 Trabajo práctico inicial en C que se basa en un código que genera la frase "Hello, wolrd"
 
 ```markdown
